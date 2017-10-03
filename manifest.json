@@ -21,7 +21,6 @@
         "https://bittrex.com/",
         "http://ads.a-ads.com/"
     ],
-
     "background": {
         "scripts": ["background.js"]
     }
